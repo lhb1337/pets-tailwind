@@ -1,2 +1,2 @@
-# cats-tailwind
+# pets-tailwind
 primeiro projeto em tailwind
